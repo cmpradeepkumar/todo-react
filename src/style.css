@@ -1,0 +1,14 @@
+h1, p, body {
+  font-family: Lato;
+}
+
+.app-title{
+    text-align: center;
+    color: lightblue;
+    font-size: 30px;
+}
+
+.text-style{
+  max-width: 200px;
+  max-height: 20px;
+}
